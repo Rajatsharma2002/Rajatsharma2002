@@ -9,14 +9,13 @@
 
 - 💬 Ask me about **Machine Learning**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+<h3 align="left">Languages Used:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsharma2002&show_icons=true&locale=en&layout=compact" alt="rajatsharma2002" /></p>
 
+<h3 align="left">Github Stats :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsharma2002&show_icons=true&locale=en" alt="rajatsharma2002" /></p>
 
+<h3 align="left">Streak :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsharma2002&" alt="rajatsharma2002" /></p>
 
 <h3 align="left">Languages and Tools:</h3>

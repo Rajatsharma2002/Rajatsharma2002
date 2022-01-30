@@ -19,6 +19,7 @@
 <h3 align="left">Languages Used:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsharma2002&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="rajatsharma2002" /></p>
 
+
 <h3 align="left">Streak:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsharma2002&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="rajatsharma2002" /></p>
 
